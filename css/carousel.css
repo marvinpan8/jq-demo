@@ -7,15 +7,19 @@ h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}
 body{
 	background:#222;
 }
+/**
+width: 1000px;
+height: 270px;
+*/
 .poster-main{
-	width: 1000px;
-	height: 270px;
+	width: 1080px;
+	height: 1920px;
 	position: relative;
 	margin: 12% auto;
 }
 .poster-list{
-	width: 1000px;
-	height: 270px;
+	width: 1080px;
+	height: 1920px;
 }
 .poster-item{
 	position: absolute;
